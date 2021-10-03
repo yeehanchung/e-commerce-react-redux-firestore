@@ -9,7 +9,7 @@ This site was developed by [YeeHan Chung](https://yeehan.me) for the completion 
 ## Lessons learnt 📚 🧩
 
 - Stop worrying, start doing.
-- Be careful [**Spaghetti Codes**](https://en.wikipedia.org/wiki/Spaghetti_code).
+- Be careful of [**Spaghetti Codes**](https://en.wikipedia.org/wiki/Spaghetti_code).
 - Importance of refactoring.
 - Google to find solutions efficiently.
 - Realized how various technologies work together.
